@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SkinScan",
+  "description": "SkinScan is an AI-powered skincare app for men, simplifying the process of understanding and caring for their skin.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
